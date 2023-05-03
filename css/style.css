@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.bg-dark {
+  background-color: #26272b;
+}
+
+.custom-toggler .navbar-toggler {
+  border-color: #ffffff;
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.box {
+  width: 18rem;
+}
+.sub-container {
+  display: flex;
+}
+.custom-body {
+  height: 4rem;
+}
+.custom-text {
+  padding: 0.5rem;
+  font-size: 1rem;
+  color: white;
+}
+
+@media screen and (max-width: 540px) {
+  .nomobile {
+    display: none;
+  }
+  .box {
+    width: 9rem;
+  }
+
+  .custom-body {
+    height: 2.5rem;
+  }
+  .custom-text {
+    padding: 0.3rem;
+    font-size: 0.7rem;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .sub-container {
+    display: block;
+    padding-left: 1.5rem;
+  }
+  .nomobile {
+    display: none;
+  }
+}
+@media screen and (width: 1024px) {
+  .box {
+    width: 14rem;
+  }
+  .nomobile {
+    display: none;
+  }
+}
