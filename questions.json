@@ -1,0 +1,92 @@
+[
+  {
+    "question": " Which is a valid keyword in java?",
+    "choice1": " interface",
+    "choice2": " string",
+    "choice3": "Float",
+    "choice4": " unsigned",
+    "answer": "1",
+    "link": "Which-is-a-valid-keyword-in-java.html"
+  },
+  {
+    "question": "Which one of the following will declare an array and initialize it with five numbers?",
+    "choice1": " Array a = new Array(5);",
+    "choice2": " int [] a = {23,22,21,20,19};",
+    "choice3": "int a [] = new int[5];",
+    "choice4": " int [5] array;",
+    "answer": "2",
+    "link": "Which-one-of-the-folowing-wil-declare-an-aray-and-initialize-it-with-five-numbers.html"
+  },
+  {
+    "question": "Who invented Java Programming?",
+    "choice1": "Guido van Rossum",
+    "choice2": "James Gosling",
+    "choice3": "Dennis Ritchie",
+    "choice4": "Bjarne Stroustrup",
+    "answer": "2",
+    "link": "Who-invented-Java-Programing.html"
+  },
+  {
+    "question": "Which component is used to compile, debug and execute the java programs?",
+    "choice1": "JRE",
+    "choice2": "JIT",
+    "choice3": "JDK",
+    "choice4": "JVM",
+    "answer": "3",
+    "link": "Which-component-is-used-to-compile-debug-and-execute-the-java-programs.html"
+  },
+  {
+    "question": "Which one of the following is not a Java feature?",
+    "choice1": "Object-oriented",
+    "choice2": "Use of pointers",
+    "choice3": "Portable",
+    "choice4": "Dynamic and Extensible",
+    "answer": "2",
+    "link": "Which-one-of-the-folowing-is-not-a-Java-feature.html"
+  },
+  {
+    "question": "Which of these cannot be used for a variable name in Java?",
+    "choice1": "identifier & keyword",
+    "choice2": "identifier",
+    "choice3": "none of the mentioned",
+    "choice4": "keyword",
+    "answer": "4",
+    "link": "Which-of-these-canot-be-used-for-a-variable-name-in-Java.html"
+  },
+  {
+    "question": "What is the extension of java code files?",
+    "choice1": ".js",
+    "choice2": ".txt",
+    "choice3": ".class",
+    "choice4": ".java",
+    "answer": "4",
+    "link": "What-is-the-extension-of-java-code-files.html"
+  },
+  {
+    "question": "Which of the following is not an OOPS concept in Java?",
+    "choice1": "Polymorphism",
+    "choice2": "Inheritance",
+    "choice3": "Compilation",
+    "choice4": "Encapsulation",
+    "answer": "3",
+    "link": "Which-of-the-folowing-is-not-an-OPS-concept-in-Java.html"
+  },
+  {
+    "question": "Which of the following is a type of polymorphism in Java Programming?",
+    "choice1": "Multiple polymorphism",
+    "choice2": "Compile time polymorphism",
+    "choice3": "Multilevel polymorphism",
+    "choice4": "Execution time polymorphism",
+    "answer": "2",
+    "link": "Which-of-the-folowing-is-a-type-of-polymorphism-in-Java-Programing.html"
+  },
+  {
+    "question": "What is the extension of compiled java classes?",
+    "choice1": ".txt",
+    "choice2": " .js",
+    "choice3": ".class",
+    "choice4": ".java",
+    "answer": "3",
+    "link": "What-is-the-extension-of-compiled-java-clases.html"
+  }
+]
