@@ -1,0 +1,9 @@
+[
+  {
+    "question": "What is Ahead of Time Compiler in Java?",
+    "a": "Ahead of time compiler compiles java files as and when you type and save.",
+    "b": "Ahead of time compiler turns byte code to executable code line by line based on requirement",
+    "c": "Ahead of time compiler is a replacement for JIT compiler to translate all byte code to a single executable file or code to run the program fast and efficient.",
+    "correctAnswer": "Ahead of time compiler is a replacement for JIT compiler to translate all byte code to a single executable file or code to run the program fast and efficient."
+  }
+]
