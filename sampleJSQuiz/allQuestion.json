@@ -1,9 +1,92 @@
 [
   {
     "question": "What is Ahead of Time Compiler in Java?",
-    "a": "Ahead of time compiler compiles java files as and when you type and save.",
-    "b": "Ahead of time compiler turns byte code to executable code line by line based on requirement",
-    "c": "Ahead of time compiler is a replacement for JIT compiler to translate all byte code to a single executable file or code to run the program fast and efficient.",
-    "correctAnswer": "Ahead of time compiler is a replacement for JIT compiler to translate all byte code to a single executable file or code to run the program fast and efficient."
+    "choice1": "Ahead of time compiler compiles java files as and when you type and save.",
+    "choice2": "Ahead of time compiler turns byte code to executable code line by line based on requirement",
+    "choice3": "Ahead of time compiler is a replacement for JIT compiler to translate all byte code to a single executable file or code to run the program fast and efficient.",
+    "choice4": "None of the above",
+    "answer": "3",
+    "link": "What-is-Ahead-of-Time-Compiler-in-Java.html"
+  },
+  {
+    "question": "What is the Java command used to compile a java program from Command Line or Command Prompt or CMD?",
+    "choice1": ">java hello.java",
+    "choice2": ">javac hello.java",
+    "choice3": ">javacomp hello.java",
+    "choice4": ">javacmd hello.java",
+    "answer": "2",
+    "link": "What-is-the-Java-comand-used-to-compile-a-java-program-from-Comand-Line-or-Comand-Prompt-or-CMD.html"
+  },
+  {
+    "question": "What is the command used to Run a Java program form Command Line or Command Prompt or CMD?",
+    "choice1": "javac hello",
+    "choice2": "java hello.class",
+    "choice3": "java hello",
+    "choice4": "java hello.java",
+    "answer": "3",
+    "link": "What-is-the-comand-used-to-Run-a-Java-program-form-Comand-Line-or-Comand-Prompt-or-CMD.html"
+  },
+  {
+    "question": "Every statement in Java language should end with a?",
+    "choice1": "Dot or Period",
+    "choice2": "Comma",
+    "choice3": "Semicolon",
+    "choice4": "Colon",
+    "answer": "3",
+    "link": "Every-statement-in-Java-language-should-end-with-a.html"
+  },
+  {
+    "question": "A function in C language is similar to what in Java language?",
+    "choice1": "Method",
+    "choice2": "Member",
+    "choice3": "Variable",
+    "choice4": "None of the above",
+    "answer": "1",
+    "link": "A-function-in-C-language-is-similar-to-what-in-Java-language.html"
+  },
+  {
+    "question": "All methods and variables in Java language are kept inside a?",
+    "choice1": "File",
+    "choice2": "Class or Interface",
+    "choice3": "static method",
+    "choice4": "main",
+    "answer": "2",
+    "link": "Al-methods-and-variables-in-Java-language-are-kept-inside-a.html"
+  },
+  {
+    "question": "What is the need to mention 'static' before main method?",
+    "choice1": "To call main method without creating an object of class",
+    "choice2": "To make main method as class method common to all instances",
+    "choice3": " Both A and B",
+    "choice4": "None of the above",
+    "answer": "3",
+    "link": "What-is-the-ned-to-mention-static-before-main-method.html"
+  },
+  {
+    "question": "In standalone Java applications, which method is mandatory?",
+    "choice1": "main method",
+    "choice2": "show method",
+    "choice3": "display method",
+    "choice4": "print method",
+    "answer": "1",
+    "link": "In-standalone-Java-aplications-which-method-is-mandatory.html"
+  },
+  {
+    "question": "What is the use of Access modifier 'pubic' in Java language?",
+    "choice1": "To hide the main method from misuse",
+    "choice2": "To call the main method outside of Class or Package by JVM",
+    "choice3": "To protect main method",
+    "choice4": "None of the above",
+    "answer": "2",
+    "link": "What-is-the-use-of-Aces-modifier-pubic-in-Java-language.html"
+  },
+  {
+    "question": "What is the default return type of a method in Java language?",
+    "choice1": "void",
+    "choice2": "int",
+    "choice3": "short",
+    "choice4": "None of the above",
+    "answer": "4",
+    "link": "What-is-the-default-return-type-of-a-method-in-Java-language.html"
   }
 ]
